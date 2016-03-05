@@ -1,5 +1,4 @@
-package dk.teamrisk.Easy;
-
+//TODO: add a package declaration
 import javax.xml.bind.DatatypeConverter;
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
