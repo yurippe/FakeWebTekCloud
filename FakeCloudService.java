@@ -1,4 +1,4 @@
-import dk.teamrisk.Easy.XMLValidator;
+//TODO: add a package declaration
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
